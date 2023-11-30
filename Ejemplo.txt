@@ -1,4 +1,9 @@
 Hola buenas noches
+<<<<<<< HEAD
 9:53
 Ultima actualizacion
 10:08
+=======
+Ultima actualizacion
+Ultima actualizacion 2
+>>>>>>> a32bf9a1dd5e84bce7c7915848edf56fa079b06e
